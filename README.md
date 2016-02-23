@@ -1,4 +1,4 @@
-<p align="center">
+<p align="right">
  <img src="img/Asana+Tamman.png" height="150" width="150"/>
 </p>
 
