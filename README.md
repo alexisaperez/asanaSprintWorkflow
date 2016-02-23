@@ -1,5 +1,5 @@
-<p align="right">
- <img src="img/Asana+Tamman.png" height="150" width="150"/>
+<p align="center">
+ <img src="img/Asana+Tamman.png" height="200" width="200"/>
 </p>
 
 # Asana - Sprint workflow
