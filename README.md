@@ -1,3 +1,7 @@
+<p align="center">
+ <img src="img/Asana+Tamman.png"/>
+</p>
+
 # Asana - Sprint workflow
 Asana allows for multiple teams to manage their organization of projects and tasks. At Tamman these teams are organized by the type of work each team is responsible for. Team members can belong to multiple teams but the nature of the work or how the work is organized can be different per team. A break down of each team and the associated work in each team is below. I will be using a restaurant analogy to help fill in the gaps.
 
