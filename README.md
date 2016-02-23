@@ -15,7 +15,7 @@ Projects in the Runners team are loaded with tasks from other teams and built to
 
 ## Project relationships
 The process of each of these teams work in concert with each other to deliver final products to the customer. Just like in a restaurant when a customer gets seated, orders food, has the food prepared, and finally gets to enjoy the meal, this process is designed to keep the restaurant delivering in a consistent manner. When it comes to software engineering the work although technically different gets handled in much the same way.
-<p align="center>
+<p align="center">
  <img src="img/Enduser workflow.png"/>
 </p>
 
@@ -54,7 +54,7 @@ _Scrum Master_
 _Product Owner_
 > A product owners primary goal is to ensure that the backlog of work for the sprint team to be working on is always filled. This includes meeting with each external requester and communicating clear objectives and requests. It is also the duty of the product owner to understand and anticipate the end users needs and desires so that they can be communicated during each kick off and demo.
 
-<cp align="center">
+<p align="center">
 <img src="img/Product owner resp.png"/>
 </p>
 
@@ -63,7 +63,7 @@ _Scrum Team_
 
 <p align="center">
 <img src="img/scrum team resp.png">
-</>
+</p>
 
 #### Agility
 
