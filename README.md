@@ -15,9 +15,9 @@ Projects in the Runners team are loaded with tasks from other teams and built to
 
 ## Project relationships
 The process of each of these teams work in concert with each other to deliver final products to the customer. Just like in a restaurant when a customer gets seated, orders food, has the food prepared, and finally gets to enjoy the meal, this process is designed to keep the restaurant delivering in a consistent manner. When it comes to software engineering the work although technically different gets handled in much the same way.
-<center>
+<p align="center>
  ![end user](img/Enduser workflow.png)
-</center>
+</p>
 
 _Triage_
 * Assigned to "Tickets/Issues"
@@ -36,8 +36,8 @@ _Sprint_
 * Assigned to "Runners"
 * Sprints have a defined length of time and a clear set of tasks to be completed by the conclusion of the sprint.
 * Project names reflect the over all goal or length of a sprint but do not need to be client or deliverable specific.
-* Tasks found within the sprint can come from the "Development" team and the "Ticket/Issues"
-* The primary goal of a sprint project is to define exactly what is intended to be done within the given time period.
+* Tasks found within the spp align="center>n come from the "Development" team and the "Ticket/Issues"
+* The primary goal of a sprint projepto define exactly what is intended to be done within the given time period.
 * Keeping with the restaurant analogy a sprint would be the cadence and tasks required to deliver the food to the table as well as the over all goal of how many plates of food to serve in any given day or week.
 
 
@@ -54,16 +54,16 @@ _Scrum Master_
 _Product Owner_
 > A product owners primary goal is to ensure that the backlog of work for the sprint team to be working on is always filled. This includes meeting with each external requester and communicating clear objectives and requests. It is also the duty of the product owner to understand and anticipate the end users needs and desires so that they can be communicated during each kick off and demo.
 
-<center>
+<p align="center">
 ![product owner](img/Product owner resp.png)
-</center>
+</p>
 
 _Scrum Team_
 > Scrum team members are responsible for deriving the amount of work and how the work in any given iteration will be completed. It is this teams responsibility to produce the deliverables of each sprint. By using previous sprints as a guideline for predicting the teams ability to complete the work provided by the Product Owner, allows for better estimation of tasks and user stories.
 
-<center>
+<p align="center">
 ![scrum team](img/scrum team resp.png)
-</center>
+</p>
 
 #### Agility
 
@@ -71,11 +71,11 @@ By maintaining short iteration cycles (no longer then 2 weeks) Agile allows the 
 - **Kickoff** - Begining of each sprint, allows the team to evaluate all the factors now present since the last sprint.
 - **Daily Standup** - Allows the team to bring blocking issues to the surface to the whole team as well as to report on the current progress. This allows the team to adjust on a daily basis.
 - **Demo meeting** - This meeting is scheduled near the end of a sprint. The primary purpose of this meeting is to determine if all of the completed tasks and stories meet the original purpose set at the kickoff.   
-- **Retrospective** - This meeting allows the team to come together once the "work" is all complete and dive into the issues that were encountered and what the team could do better in the next sprint to avoid issues from happening again. This is a time to discover how the team can "re-tool" before starting the next cycle.
+- **Retrospective** - This meeting alows the team to come together once the "work" is all complete and dive into the issues that were encountered and what the team could do betp align="center"> the next sprint to avoid issues from happening again. This is a time to discover how the team can "re-tool" before starting the next p
 
 #### Team Cadence
 
-Understanding team cadence can be an art in itself. Traditionally this is measured by applying a point system to each task and depending on the total points achieved by the team indicates the teams technical capabilities. Once measured  over several sprint cycles it can be gleaned that the team is capable of a certain "velocity" which can be used for estimating completion of larger projects that may span multiple sprints. The topic of points and measuring Cadence is out of scope for this document but will be addressed in future documentation.  
+Understanding team cadence can be an art in itself. Traditionally this is measured by applying a point system to each task and depending on the total points achieved by the team indicates the teams technical capabilities. Once measured  over several sprint cycles it can be gleaned that the team is capable of a certain "velocity" which can be used for estimating completion of larger projects that may span multiple sprints. The topic of points and measuring Cadence is out of scope for this docump align="center"t will be addressed in future documentatp
 
 #### Meetings
 Within the sprint cycle there are only four primary meetings. These meetings include; Sprint kickoff, Daily standup, Sprint Demo, and Retrospective.
