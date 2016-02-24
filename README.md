@@ -79,8 +79,8 @@ _Retrospective_
 > The retrospective meeting is the only non project oriented meeting. It is designed to review the team as a wholes performance and to see what can be improved  before the next sprint starts. This is not a time to evaluate individuals but to better understand how efficient the entire team is.  
 
 
-### Agile goals
-Their are three primary goals of the Agile project management methodology at Tamman.
+### Sprint Cycle Goals
+Their are three primary goals of the Agile project management methodology and use of sprint cycles at Tamman.
 - Maintain flexibility and enable the team to pivot quickly when encountering road blocks. In other words "try, learn, refine".
 - Improve the teams efficiency and cutdown on ambiguous direction. Using up to date tracking tools and improving inter-team communication encourages improved cadence but also reduces unintentional knowledge hoarding.
 - Reduce the amount of time and frequency needed for meetings. To support this there are only four primary meetings within a sprint cycle; kickoff, daily standup, demo, retrospective.
