@@ -7,7 +7,7 @@ Asana allows for multiple teams to manage their organization of projects and tas
 
 ## Asana Teams
 Asana breaks each project group into "Teams" these teams can have members and the members of the teams can belong to multiple teams. At Tamman we use this to organize the type of work each group has to do and how that work needs to be organized. At Tamman we have multiple "Teams" while the members of those teams are generally the same, each project has different functions depending on which team is assigned to it.
- 
+
 #### Team - Office (Administration, hostess, dishwasher)
 Projects under Office are stored for items that are central to the administration of the company and do not serve as a technical ground for maintaining cadence across the other teams. This is akin to the hostess position in a restaurant, they are in charge of seating the customer, setting expectations, and creating a smooth atmosphere.
 
@@ -20,7 +20,7 @@ This is the primary team where long running projects are worked on, the goal of 
 #### Team - Runners (Sprints, food runner)
 Projects in the Runners team are loaded with tasks from other teams and built to fit a pre-determined lengths of time. For example a project titled "Weeks 23-24 - GFX,MMM, and Comcast Download Tool" would be filled with all the tasks that the team has determined needs to be done within weeks 23 and 24 of the year. The tasks within these projects can vary from different clients and can have multiple deliverables. Tasks found in projects assigned to this team can coexist in Development projects as well as Tickets/Issues. This would be the equivalent of a food runners or the line cook staff that plates the food before it is delivered. Their primary goal is assemble all of the dishes that need to be delivered ensure that everything that is promised will be delivered on time and to deliver the end product to the table.
 
-## Project relationships
+### Project relationships
 The process of each of these teams work in concert with each other to deliver final products to the customer. Just like in a restaurant when a customer gets seated, orders food, has the food prepared, and finally gets to enjoy the meal, this process is designed to keep the restaurant delivering in a consistent manner. When it comes to software engineering the work although technically different gets handled in much the same way. A client makes a request, the request is triaged, scoped/architected, and then produced/delivered. If everything went as planned the client leaves happy and returns for a similar experience.
 <p align="center">
  <img src="img/Enduser workflow.png"/>
