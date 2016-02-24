@@ -45,14 +45,7 @@ _Sprint_
 * The primary goal of a sprint project is to define exactly what is intended to be done within the given time period.
 * Keeping with the restaurant analogy a sprint would be the cadence and tasks required to deliver the food to the table as well as the over all goal of how many plates of food to serve in any given day or week.
 
-
-## Agile goals
-Their are three primary goals of the Agile project management methodology at Tamman.
-- Maintain flexibility and enable the team to pivot quickly when encountering road blocks. In other words "try, learn, refine".
-- Improve the teams efficiency and cutdown on ambiguous direction. Using up to date tracking tools and improving inter-team communication encourages improved cadence but also reduces unintentional knowledge hoarding.
-- Reduce the amount of time and frequency needed for meetings. To support this there are only four primary meetings within a sprint cycle; kickoff, daily standup, demo, retrospective.
-
-#### Roles
+#### Team Member Roles
 _Scrum Master_
 > The role of any scrum master is to conduct each meeting, with the goal of clearing any external blockers. It is also the goal of the scrum master to focus the efforts of each meeting towards clear objectives.
 
@@ -70,7 +63,7 @@ _Scrum Team_
 <img src="img/scrum team resp.png">
 </p>
 
-#### Meetings
+## Sprint Cycle
 Within the sprint cycle there are only four primary meetings. These meetings include; Sprint kickoff, Daily standup, Sprint Demo, and Retrospective.
 
  _Sprint kickoff_
@@ -84,6 +77,13 @@ _Sprint Demo_
 
 _Retrospective_
 > The retrospective meeting is the only non project oriented meeting. It is designed to review the team as a wholes performance and to see what can be improved  before the next sprint starts. This is not a time to evaluate individuals but to better understand how efficient the entire team is.  
+
+
+### Agile goals
+Their are three primary goals of the Agile project management methodology at Tamman.
+- Maintain flexibility and enable the team to pivot quickly when encountering road blocks. In other words "try, learn, refine".
+- Improve the teams efficiency and cutdown on ambiguous direction. Using up to date tracking tools and improving inter-team communication encourages improved cadence but also reduces unintentional knowledge hoarding.
+- Reduce the amount of time and frequency needed for meetings. To support this there are only four primary meetings within a sprint cycle; kickoff, daily standup, demo, retrospective.
 
 #### Team Cadence
 
