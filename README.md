@@ -70,29 +70,29 @@ _Scrum Team_
 <img src="img/scrum team resp.png">
 </p>
 
-#### Agility
-
-By maintaining short iteration cycles (2 -4 weeks) Agile allows the team to adjust to external influences rapidly as well pivot when a direction may no longer be the best course of action.
-- **Kickoff** - Begining of each sprint, allows the team to evaluate all the factors now present since the last sprint.
-- **Daily Standup** - Allows the team to bring blocking issues to the surface to the whole team as well as to report on the current progress. This allows the team to adjust on a daily basis.
-- **Demo meeting** - This meeting is scheduled near the end of a sprint. The primary purpose of this meeting is to determine if all of the completed tasks and stories meet the original purpose set at the kickoff.   
-- **Retrospective** - This meeting allows the team to come together once the "work" is all complete and dive into the issues that were encountered and what the team could do betp align="center"> the next sprint to avoid issues from happening again. This is a time to discover how the team can "re-tool" before starting the next p
-
-#### Team Cadence
-
-Understanding team cadence can be an art in itself. Traditionally this is measured by applying a point system to each task and depending on the total points achieved by the team indicates the teams technical capabilities. Once measured  over several sprint cycles it can be gleaned that the team is capable of a certain "velocity" which can be used for estimating completion of larger projects that may span multiple sprints. The topic of points and measuring cadence is out of scope for this document and will be addressed in future documentation.
-
 #### Meetings
 Within the sprint cycle there are only four primary meetings. These meetings include; Sprint kickoff, Daily standup, Sprint Demo, and Retrospective.
 
  _Sprint kickoff_
->The kick off meeting is vital to the way the team plans the work they are tasked with. In some circles this meeting is called "planning poker" or simply the "Scrum". The Idea comes from Rugby, where the players gather in a locking formation to gain control of the ball. When it applies to Agile this meeting is for all of the people responsible for a sprint to put their heads together to plan and strategize on how to complete the work that must be done within a given deadline. This is an opportunity for everyone on the team to collaborate and size different tasks appropriately but more importantly this is an opportunity to understand the priorities of the team.
+>The kick off meeting is vital to the way the team plans the work they are tasked with. In some circles this meeting is called "planning poker" or simply the "Scrum". The Idea comes from Rugby, where the players gather in a locking formation to gain control of the ball. When it applies to Agile this meeting is for all of the people responsible for a sprint to put their collective talents together to plan and strategize on how to complete the work that must be done within a given deadline. This is an opportunity for everyone on the team to collaborate and size different tasks appropriately but more importantly this is an opportunity to understand the priorities of the team.
 
 _Daily Standup_
 > The daily standup is designed to keep a pulse on the progress of a sprint, by having all of the people responsible for the work reporting daily it allows the whole team to understand if they are on track or not. It also allows the "Scrum Master" to be aware of any potential blocking issues that may need to escalated in order to unblock.
 
 _Sprint Demo_
-> This meeting occurs at the end of a sprint cycle, it allows the team to asses if they have met the overall goal of the sprint. The meeting is designed to show the teams progress to the product owners so that they can interface with the clients. Sprint demos are for internal teams and are not for showing directly to a client. This meeting also serves an opportunity to add missed items to the backlog.
+> This meeting occurs at the end of a sprint cycle, it allows the team to determine if they have met the overall goal of the sprint. The meeting is designed to show the teams progress to the product owners so that they can interface with the clients. Sprint demos are for internal teams and are not for showing directly to a client. This meeting also serves an opportunity to add missed items to the backlog.
 
 _Retrospective_
-> The retrospective meeting is the only non project oriented meeting. It is designed to review the team as a wholes performance and to see what can be improved  before the next sprint starts.  
+> The retrospective meeting is the only non project oriented meeting. It is designed to review the team as a wholes performance and to see what can be improved  before the next sprint starts. This is not a time to evaluate individuals but to better understand how efficient the entire team is.  
+
+#### Team Cadence
+
+Understanding team cadence can be an art in itself. Traditionally this is measured by applying a point system to each task and depending on the total points achieved by the team indicates the teams technical capabilities. Once measured  over several sprint cycles it can be gleaned that the team is capable of a certain "velocity" which can be used for estimating completion of larger projects that may span multiple sprints. The topic of points and measuring cadence is out of scope for this document and will be addressed in future documentation.
+
+#### Agility
+
+By maintaining short iteration cycles (1 -4 weeks) Agile allows the team to adjust to external influences rapidly as well pivot when a direction may no longer be the best course of action.
+- **Kickoff** - At the beginning of each sprint, a Kickoff allows the team to evaluate all the factors and tasks that are now necessary to be completed in the  sprint that were not completed in the previous sprint.
+- **Daily Standup** - Allows the team to bring blocking issues to the surface to the whole team as well as to report on the current progress. This allows the team to adjust on a daily basis.
+- **Demo meeting** - This meeting is scheduled near the end of a sprint. The primary purpose of this meeting is to determine if all of the completed tasks and stories meet the original purpose set at the kickoff.   
+- **Retrospective** - This meeting allows the team to come together once the "work" is all complete and dive into the issues that were encountered and what the team could do better in the next sprint to avoid issues from happening again. This is a time to discover how the team can "re-tool" before starting the next.
