@@ -5,6 +5,9 @@
 # Asana - Sprint workflow
 Asana allows for multiple teams to manage their organization of projects and tasks. At Tamman these teams are organized by the type of work each team is responsible for. Team members can belong to multiple teams but the nature of the work or how the work is organized can be different per team. A break down of each team and the associated work in each team is below. There are several similarities between software development and the restaurant business. This document will draw several parallels between software development and engineering.  
 
+## Asana Teams
+Asana breaks each project group into "Teams" these teams can have members and the members of the teams can belong to multiple teams. At Tamman we use this to organize the type of work each group has to do and how that work needs to be organized. At Tamman we have multiple "Teams" while the members of those teams are generally the same, each project has different functions depending on which team is assigned to it.
+ 
 #### Team - Office (Administration, hostess, dishwasher)
 Projects under Office are stored for items that are central to the administration of the company and do not serve as a technical ground for maintaining cadence across the other teams. This is akin to the hostess position in a restaurant, they are in charge of seating the customer, setting expectations, and creating a smooth atmosphere.
 
