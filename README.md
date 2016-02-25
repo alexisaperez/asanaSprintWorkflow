@@ -11,14 +11,14 @@ Asana breaks each project group into "Teams" these teams can have members and th
 #### Team - Office (Administration, hostess, dishwasher)
 Projects under Office are stored for items that are central to the administration of the company and do not serve as a technical ground for maintaining cadence across the other teams. This is akin to the hostess position in a restaurant, they are in charge of seating the customer, setting expectations, and creating a smooth atmosphere.
 
-#### Team -  Tickets/Issues (Backlog Curation, Front of House)
-All client opened issues, questions, tasks, requests exist in the tickets/issues team. These tasks are to remain in this teams associated projects until they are completed across all projects. The primary purpose of storing clients requests in this team is to maintain accurate organization of billable tasks per client. Top level tasks, change orders, or client job numbers are the types of tasks that should be recorded under this team. Maintaining an account of billable work within this team is vital to maintaining the client relationship. Tasks in projects for this team can be added to projects in Development and Runners teams, but tasks created in Development or Runners can not be added to projects in this team. This can be thought of as the waitress or waiter of a restaurant, it is their job to collect the order, ensure the order is correct and to charge the customer once the customer has been served. It is also possible that they might prep small plates or put the finishing touches on a dessert but they are not responsible for cooking the main course. At the end of the meal they deliver the check to the customer for payment.
+#### Team -  Backlog (Issue and Ticket  Curation, Front of House)
+All client opened issues, questions, tasks, requests exist in the Backlog team. These tasks are to remain in this teams associated projects until they are completed across all projects. The primary purpose of storing clients requests in this team is to maintain accurate organization of billable tasks per client. Top level tasks, change orders, or client job numbers are the types of tasks that should be recorded under this team. Maintaining an account of billable work within this team is vital to maintaining the client relationship. Tasks in projects for this team can be added to projects in Epic and Sprint teams, but tasks created in Epic or Sprint can not be added to projects in this team. This can be thought of as the waitress or waiter of a restaurant, it is their job to collect the order, ensure the order is correct and to charge the customer once the customer has been served. It is also possible that they might prep small plates or put the finishing touches on a dessert but they are not responsible for cooking the main course. At the end of the meal they deliver the check to the customer for payment.
 
-#### Team - Development (Epics, Chef)
-This is the primary team where long running projects are worked on, the goal of this team is to organize all of the smaller tasks that are supporting larger requests that are reported in the Tickets/Issues Team. It is this teams responsibility to define all of the tasks and milestones that are required to complete a particular clients requests. This is not a team that handles short run projects but rather a team that is focused on larger milestones that might evolve as scopes are determined or changed. Tasks in Development projects can exist both in Tickets/Issues as well as Runners but tasks created in Runners can not exist in Development. This is the equivalent to the Chef or Back of House positions at a restaurant, it is their job to transition the orders of customers into final products by breaking down the dishes into smaller consumable pieces, and testing to make sure the food is suitable for the customers, they would never take the order directly from the customer.
+#### Team - Epic (Project Planning, Chef)
+This is the primary team where long running projects are designed, the goal of this team is to organize all of the smaller tasks that are supporting larger requests that are reported in the Backlog Team. It is this teams responsibility to define all of the tasks and milestones that are required to complete a particular clients requests. This is not a team that handles short run projects but rather a team that is focused on larger milestones that might evolve as scopes are determined or changed. Tasks in Epic projects can exist both in Backlog as well as Sprint but tasks originating in Sprints can not exist in Epic. This is the equivalent to the Chef or Back of House positions at a restaurant, it is their job to transition the orders of customers into final products by breaking down the dishes into smaller consumable pieces, and testing to make sure the food is suitable for the customers, they would never take the order directly from the customer.
 
-#### Team - Runners (Sprints, food runner)
-Projects in the Runners team are loaded with tasks from other teams and built to fit a pre-determined lengths of time. For example a project titled "Weeks 23-24 - GFX,MMM, and Comcast Download Tool" would be filled with all the tasks that the team has determined needs to be done within weeks 23 and 24 of the year. The tasks within these projects can vary from different clients and can have multiple deliverables. Tasks found in projects assigned to this team can coexist in Development projects as well as Tickets/Issues. This would be the equivalent of a food runners or the line cook staff that plates the food before it is delivered. Their primary goal is assemble all of the dishes that need to be delivered ensure that everything that is promised will be delivered on time and to deliver the end product to the table.
+#### Team - Sprint (Line cook, food runner)
+Projects in the Sprint team are loaded with tasks from other teams and built to fit a pre-determined lengths of time. For example a project titled "Weeks 23-24 - GFX,MMM, and Comcast Download Tool" would be filled with all the tasks that the team has determined needs to be done within weeks 23 and 24 of the year. The tasks within these projects can vary from different clients and can have multiple deliverables. Tasks found in projects assigned to this team can coexist in Epic projects as well as Backlog. This would be the equivalent of a food runners or the line cook staff that plates the food before it is delivered. Their primary goal is assemble all of the dishes that need to be delivered and ensure that everything that is promised will be delivered on time and to deliver the end product to the table.
 
 ### Project relationships
 The process of each of these teams work in concert with each other to deliver final products to the customer. Just like in a restaurant when a customer gets seated, orders food, has the food prepared, and finally gets to enjoy the meal, this process is designed to keep the restaurant delivering in a consistent manner. When it comes to software engineering the work although technically different gets handled in much the same way. A client makes a request, the request is triaged, scoped/architected, and then produced/delivered. If everything went as planned the client leaves happy and returns for a similar experience.
@@ -27,24 +27,27 @@ The process of each of these teams work in concert with each other to deliver fi
 </p>
 
 _Triage_
-* Assigned to "Tickets/Issues"
+* Assigned to "Backlog"
 * All projects regardless of size have a corresponding task in one of the projects assigned to this team.
-* As client requests are quickly assessed and appropriately dealt with if this team can not handle the request it is escalated to the development team  to work on.
-* A waiter in a typical restaurant may receive an order for a simple cup of coffee, this is not something that would be escalated to the kitchen to be crafted, similarly this team would not escalate simple requests or questions to a larger project for another team to work on.
+* Client requests are quickly assessed with any of the following outcomes.
+ -  Immediately tasked to a Sprint project
+  - Escalated to a Epic
+  - Prioritized in the Backlog.
+* A waiter in a typical restaurant may receive an order for a simple cup of coffee, this is not something that would be escalated to the Chef to be crafted and designed, it is simply poured and delivered. Similarly this team would not escalate simple requests or questions to a larger project for another team to work on, instead the task will be assigned to the current sprint project.
 
 _Scope and Development_
-* Assigned to "Development"
-* Only larger projects are escalated from "Tickets/Issues" exist within this team.
+* Assigned to "Epic"
+* Only larger projects are escalated from "Backlog" exist within this team.
 * Tasks are much more granular and can express true user stories needing to be fulfilled to meet the criteria of the project.
-* Projects that are assigned to this team have multiple stages and may have tasks move through  these stages such as scope, research, development, and QA before the project is complete.
-* The last task on every project will be to ensure the project meets the acceptance criteria defined in the original request which lives under "Tickets/Issues"
-* The analog to a restaurant would be the individual recipes that make up a cuisine.
+* Projects that are assigned to this team have multiple stages and may have tasks move through these stages such as scope, research, development, and QA before the project is complete.
+* The last task on every project will be to ensure the project meets the acceptance criteria defined in the original request which lives under "Backlog"
+* The analog to a restaurant would be the individual recipes that make up a cuisine. These recipes are hand crafted by the Chef and are designed to delight the guests with a specific delivery date.
 
 _Sprint_
-* Assigned to "Runners"
+* Assigned to "Sprint"
 * Sprints have a defined length of time and a clear set of tasks to be completed by the conclusion of the sprint.
 * Project names reflect the over all goal or length of a sprint but do not need to be client or deliverable specific.
-* Tasks found within each sprint project come from the "Development" and the "Ticket/Issues" teams.
+* Tasks found within each sprint project come from the "Epic" and the "Backlog" teams.
 * The primary goal of a sprint project is to define exactly what is intended to be done within the given time period.
 * Keeping with the restaurant analogy a sprint would be the cadence and tasks required to deliver the food to the table as well as the over all goal of how many plates of food to serve in any given day or week.
 
