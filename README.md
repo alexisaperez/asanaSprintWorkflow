@@ -29,10 +29,10 @@ The process of each of these teams work in concert with each other to deliver fi
 _Triage_
 * Assigned to "Backlog"
 * All projects regardless of size have a corresponding task in one of the projects assigned to this team.
-* Client requests are quickly assessed with any of the following outcomes.
- -  Immediately tasked to a Sprint project
-  - Escalated to a Epic
-  - Prioritized in the Backlog.
+* Client requests are quickly assessed with any of the following outcomes being possible.
+ -  Immediately tasked to a Sprint project to be completed within the a scheduled Sprint.
+  - Escalated to a Epic to be further designed.
+  - Prioritized in the Backlog to be completed in a future sprint.
 * A waiter in a typical restaurant may receive an order for a simple cup of coffee, this is not something that would be escalated to the Chef to be crafted and designed, it is simply poured and delivered. Similarly this team would not escalate simple requests or questions to a larger project for another team to work on, instead the task will be assigned to the current sprint project.
 
 _Scope and Development_
