@@ -1,3 +1,20 @@
+Welcome to Tamman Workbook's documentation!
+===========================================
+
+Contents:
+
+.. toctree::
+   :maxdepth: 2
+
+
+
+Indices and tables
+==================
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
+
 <p align="center">
  <img src="img/Asana+Tamman.png" height="200" width="200"/>
 </p>
