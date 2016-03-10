@@ -14,7 +14,7 @@ The sprint review meeting is informal, typically no PowerPoint slides or other s
 
 ## Who
 
-Participants in the sprint review typically include the product owner, the Scrum team, the ScrumMaster, management, and occasionally customers.
+Participants in the sprint review typically include the product owner, the Scrum team, the ScrumMaster, management, and occasionally internal customers.
 
 ## Outcome
 
